@@ -7,3 +7,4 @@
 appsmith/appsmith-ee
 #baserow
 budibase/budibase
+zadam/trilium
