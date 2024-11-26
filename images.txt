@@ -10,3 +10,4 @@ budibase/budibase
 zadam/trilium:latest
 zadam/trilium:0.59.4
 zadam/trilium:0.60.3
+n8n-io/n8n
