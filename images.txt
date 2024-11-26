@@ -11,3 +11,4 @@ zadam/trilium:latest
 zadam/trilium:0.59.4
 zadam/trilium:0.60.3
 docker.n8n.io/n8nio/n8n
+traefik/traefik
